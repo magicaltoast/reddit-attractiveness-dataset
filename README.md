@@ -5,6 +5,7 @@
 - `/r/ifyuhadtopickone` - Single choice, mostly female images. ``(POTENTIALLY NSFW)``
 - `/r/ranked_girls` - Ranked voting, mostly female images. ``(POTENTIALLY NSFW)``
 - `/r/lineups` - Ranked voting, mostly female images. ``(POTENTIALLY NSFW)``
+### Alternativly there is [kaggle dataset](https://www.kaggle.com/nerdrod2/reddit-attractiveness-dataset)
 ### Currently there is no way to download the data from annotations, but i plan to implement it son.
 # Comparasion of /r/rateme and /r/truerateme
 ![Poster](poster.jpg)
